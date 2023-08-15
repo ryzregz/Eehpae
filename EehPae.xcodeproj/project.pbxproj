@@ -36,6 +36,7 @@
 		2210DB172A84F0120009C058 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB132A84F0120009C058 /* BadgeView.swift */; };
 		2210DB182A84F0120009C058 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB142A84F0120009C058 /* CustomView.swift */; };
 		2210DB192A84F0120009C058 /* CImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB152A84F0120009C058 /* CImageView.swift */; };
+		229F13F62A863C07007AC524 /* RegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229F13F52A863C07007AC524 /* RegistrationVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		2210DB132A84F0120009C058 /* BadgeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
 		2210DB142A84F0120009C058 /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 		2210DB152A84F0120009C058 /* CImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CImageView.swift; sourceTree = "<group>"; };
+		229F13F52A863C07007AC524 /* RegistrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 		2210DAE62A84D90E0009C058 /* controller */ = {
 			isa = PBXGroup;
 			children = (
+				229F13F52A863C07007AC524 /* RegistrationVC.swift */,
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 				2210DAB72A84D8EA0009C058 /* AppDelegate.swift in Sources */,
 				2210DAB92A84D8EA0009C058 /* SceneDelegate.swift in Sources */,
 				2210DAFD2A84DD150009C058 /* Extensions.swift in Sources */,
+				229F13F62A863C07007AC524 /* RegistrationVC.swift in Sources */,
 				2210DAFE2A84DD150009C058 /* Logger.swift in Sources */,
 				2210DB0B2A84DEA50009C058 /* APIClient.swift in Sources */,
 				2210DB192A84F0120009C058 /* CImageView.swift in Sources */,
