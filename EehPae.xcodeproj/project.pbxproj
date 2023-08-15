@@ -36,11 +36,7 @@
 		2210DB172A84F0120009C058 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB132A84F0120009C058 /* BadgeView.swift */; };
 		2210DB182A84F0120009C058 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB142A84F0120009C058 /* CustomView.swift */; };
 		2210DB192A84F0120009C058 /* CImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2210DB152A84F0120009C058 /* CImageView.swift */; };
-<<<<<<< Updated upstream
 		229F13F62A863C07007AC524 /* RegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229F13F52A863C07007AC524 /* RegistrationVC.swift */; };
-=======
-		8F6AF9362A8BAFDA001F5B3D /* Registration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6AF9352A8BAFDA001F5B3D /* Registration.swift */; };
->>>>>>> Stashed changes
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,11 +90,7 @@
 		2210DB132A84F0120009C058 /* BadgeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
 		2210DB142A84F0120009C058 /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 		2210DB152A84F0120009C058 /* CImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CImageView.swift; sourceTree = "<group>"; };
-<<<<<<< Updated upstream
 		229F13F52A863C07007AC524 /* RegistrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationVC.swift; sourceTree = "<group>"; };
-=======
-		8F6AF9352A8BAFDA001F5B3D /* Registration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Registration.swift; path = ../../../Registration.swift; sourceTree = "<group>"; };
->>>>>>> Stashed changes
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,11 +181,7 @@
 		2210DAE62A84D90E0009C058 /* controller */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< Updated upstream
 				229F13F52A863C07007AC524 /* RegistrationVC.swift */,
-=======
-				8F6AF9352A8BAFDA001F5B3D /* Registration.swift */,
->>>>>>> Stashed changes
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -421,7 +409,6 @@
 				2210DAF72A84DC5A0009C058 /* ColorsConfig.swift in Sources */,
 				2210DABB2A84D8EA0009C058 /* ViewController.swift in Sources */,
 				2210DAF32A84DBAB0009C058 /* AppConfig.swift in Sources */,
-				8F6AF9362A8BAFDA001F5B3D /* Registration.swift in Sources */,
 				2210DAB72A84D8EA0009C058 /* AppDelegate.swift in Sources */,
 				2210DAB92A84D8EA0009C058 /* SceneDelegate.swift in Sources */,
 				2210DAFD2A84DD150009C058 /* Extensions.swift in Sources */,
